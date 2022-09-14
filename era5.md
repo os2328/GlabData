@@ -13,7 +13,6 @@
 | Temporal coverage    |                     |
 | Spatial coverage     |                     |
 | Projection           |                     |
-| Size                 |                     |
 | URL                  |                     |
 | Avaliable downloaded |                     |
 | Size                 |                     |
