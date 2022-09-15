@@ -23,7 +23,7 @@ This enhanced Level-3 (L3) soil moisture product provides a composite of daily e
 
 **Relevant scripts**
 
-[slice data](scripts/slice_smap.py)
+[slice data](os2328/GlabData/scripts/slice_smap.py)
 
 
 **Relevant publications**
