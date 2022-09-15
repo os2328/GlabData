@@ -4,8 +4,8 @@ Datasets catalog for Glab
 
 1. [ERA 5 Land](era5.md)
 2. [CLASS4GL](CLASS4GL.md)
-3. SMOS-IC V2
-4. KiD data
+3. [SMOS-IC V2](SMOS-ICV2.md)
+4. [KiD data](kid_data.md)
 5. BC MSTM
 6. FLUXNET2015
 7. MODIS MCD15A3H v006
