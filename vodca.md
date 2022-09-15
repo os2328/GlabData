@@ -25,7 +25,7 @@ An update of VODCA, addressing this issue and potentially including an extension
 | Spatial coverage     |      global               |
 | Projection           |                     |
 | URL                  |    [zenodo storage](https://zenodo.org/record/2575599#.YyM6TC-B2MI)                 |
-| Avaliable downloaded |     /burg/glab/users/os2328/data/VODCA-related/vodca/VODCA_C-band_2002-2018_v01.0.0.zip  4.3G              ; /burg/glab/users/os2328/data/VODCA-related/vodca20022014monthly.pkl   772Mb monthly mean, global            |
+| Avaliable downloaded |     /burg/glab/users/os2328/data/VODCA-related/vodca/VODCA_C-band_2002-2018_v01.0.0.zip  4.3G; <br> /burg/glab/users/os2328/data/VODCA-related/vodca20022014monthly.pkl   772Mb monthly mean, global            |
 | Size                 |   C-band - 140 GB unzipped; X-band - 180 GB unzipped; Ku-band - 270 GB unzipped                  |
 | File format          |      netcdf4               |
 | Good for             |                     |
