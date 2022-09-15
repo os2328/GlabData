@@ -35,8 +35,8 @@ An update of VODCA, addressing this issue and potentially including an extension
 
 **Relevant scripts**
 
-- [Monthly mean, 1 .pkl file from all .nc files](scripts/vodca_nc2pkl.py)
-- [Closest data to a given location](scripts/vodca_slice_point.py)
+- [Monthly mean, 1 .pkl file from all .nc files](../scripts/vodca_nc2pkl.py)
+- [Closest data to a given location](../scripts/vodca_slice_point.py)
 
 
 **Relevant publications**
