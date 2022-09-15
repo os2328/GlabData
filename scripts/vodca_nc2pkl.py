@@ -1,6 +1,14 @@
 # this script takes netcdf files (in this case - VODCA C-band) and makes one large .pkl file out of them. Then, global *monthly* data is calculated. 
 # only VOD variable is taken
 
+import os
+
+import netCDF4 as nc
+import datetime
+import pandas as pd
+import h5py
+import numpy as np
+import math
 
 data_dir = '/burg/glab/users/os2328/data/vodca/'
 
