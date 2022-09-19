@@ -13,7 +13,7 @@ This enhanced Level-3 (L3) soil moisture product provides a composite of daily e
 | Spatial coverage     |    global                 |
 | Projection           |     EASE-Grid 2.0                |
 | URL                  | [NSIDC](https://nsidc.org/data/spl3smp_e/versions/5)                    |
-| Avaliable downloaded |  /burg/glab/users/os2328/data/smapampm9kmAug27.pkl  67Gb                   |
+| Avaliable downloaded |  /burg/glab/users/os2328/data/smapampm9km_2015_2022.pkl  74Gb                   |
 | Size                 |                     |
 | File format          |       HDF5              |
 | Good for             |   best satellite soil moisture                  |
