@@ -15,7 +15,7 @@ Description: High resolution surface meteorological data across the United State
 | Spatial coverage     |    Contiguous United States                |
 | Projection           |    USA Contiguous Albers Equal Area Conic, USGS (EPSG = 5070)             |
 | URL                  |    https://www.climatologylab.org/gridmet             |
-| Avaliable downloaded |                    |
+| Avaliable downloaded |    no               |
 | Size                 |                     |
 | File format          |    netcdf                 |
 | Good for             |                     |
