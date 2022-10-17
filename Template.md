@@ -7,6 +7,7 @@
 | Parameter     | Description |
 | ---      | ---       |
 | Variables            |    insert here      |
+| Variable name in the dataset and units  | |
 | Temporal resolution  |    insert here      |
 | Spatial resolution   |                     |
 | Temporal coverage    |                     |
