@@ -17,7 +17,7 @@ This enhanced Level-3 (L3) soil moisture product provides a composite of daily e
 | Size                 |                     |
 | File format          |       HDF5              |
 | Good for             |   best satellite soil moisture                  |
-| Bad because          |   only starts in 2015                  |
+| Bad because          |   only starts in 2015, satellite-based - so not great for dense vegetation, high elevation, etc.                  |
 
 
 
