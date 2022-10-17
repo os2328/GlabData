@@ -7,6 +7,7 @@ This enhanced Level-3 (L3) soil moisture product provides a composite of daily e
 | Parameter     | Description |
 | ---      | ---       |
 | Variables            |    Brightness Temperature, Soil Moisture      |
+| Variable name in the dataset and units  | |
 | Temporal resolution  |    daily      |
 | Spatial resolution   |    9 km                  |
 | Temporal coverage    |   2015-present                  |
