@@ -9,15 +9,15 @@ Description: High resolution surface meteorological data across the United State
 | Parameter     | Description |
 | ---      | ---       |
 | Variables            |    Various      |
-| Temporal resolution  |    insert here      |
-| Spatial resolution   |                     |
-| Temporal coverage    |                     |
-| Spatial coverage     |                     |
-| Projection           |                     |
-| URL                  |                     |
-| Avaliable downloaded |                     |
+| Temporal resolution  |    Daily      |
+| Spatial resolution   |    4km                |
+| Temporal coverage    |    1979 -- yesterday                 |
+| Spatial coverage     |    Contiguous United States                |
+| Projection           |    USA Contiguous Albers Equal Area Conic, USGS (EPSG = 5070)             |
+| URL                  |    https://www.climatologylab.org/gridmet             |
+| Avaliable downloaded |                    |
 | Size                 |                     |
-| File format          |                     |
+| File format          |    netcdf                 |
 | Good for             |                     |
 | Bad because          |                     |
 
