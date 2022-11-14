@@ -7,16 +7,16 @@
 
 | Parameter     | Description |
 | ---      | ---       |
-| Variables            |    insert here      |
-| Temporal resolution  |    insert here      |
-| Spatial resolution   |                     |
-| Temporal coverage    |                     |
-| Spatial coverage     |                     |
+| Variables            |    T2m, Ts      |
+| Temporal resolution  |    hourly      |
+| Spatial resolution   |    0.25 degree |
+| Temporal coverage    |    1990-2022  |
+| Spatial coverage     |    [15N, 70N], [150W, 40E]                 |
 | Projection           |                     |
-| URL                  |                     |
-| Avaliable downloaded |                     |
+| URL                  |    https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview|
+| Avaliable downloaded |    /burg/glab/users/yh3019/era5_raw  |
 | Size                 |                     |
-| File format          |                     |
+| File format          |    netcdf                 |
 | Good for             |                     |
 | Bad because          |                     |
 
