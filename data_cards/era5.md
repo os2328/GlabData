@@ -7,7 +7,7 @@
 
 | Parameter     | Description |
 | ---      | ---       |
-| Variables            |    T2m, Ts      |
+| Variables            |    T2m, Ts, Precip, Evapor, Potential Evapor, SWC, LH, SH, Solar Rad, 10m UV winds|
 | Temporal resolution  |    hourly      |
 | Spatial resolution   |    0.25 degree |
 | Temporal coverage    |    1990-2022, MJJA  |
@@ -17,8 +17,8 @@
 | Avaliable downloaded |    /burg/glab/users/yh3019/era5_raw  |
 | Size                 |                     |
 | File format          |    netcdf                 |
-| Good for             |                     |
-| Bad because          |                     |
+| Good for             |   land-atmosphere study     |
+| Bad because          |   soil moisture has a bias compared with satellite data                  |
 
 
 
