@@ -8,7 +8,7 @@
 | Parameter     | Description |
 | ---      | ---       |
 | Variables            |    T2m, Ts, Precip, Evapor, Potential Evapor, SWC, LH, SH, Solar Rad, 10m UV winds|
-| Temporal resolution  |    hourly      |
+| Temporal resolution  |    hourly(for temp only), daily(for other vars)      |
 | Spatial resolution   |    0.25 degree |
 | Temporal coverage    |    1990-2022, MJJA  |
 | Spatial coverage     |    [15N, 70N], [150W, 40E]                 |
