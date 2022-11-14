@@ -16,3 +16,4 @@ Datasets catalog for Glab
 12. SP CESM Present-day
 13. Western US MTBS-Interagency WUMI wildfires
 14. [gridMET](https://www.climatologylab.org/gridmet.html)
+15. [SMAP IB](data_cards/SMAP-IB.md)
